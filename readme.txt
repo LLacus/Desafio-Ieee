@@ -2,7 +2,7 @@ Repositorio criado para um desafio do Ieee cimatec.
 
 Equipe composta por: 
 Lucas Lago
-Geovana 
+Geovana Belem
 Cassio Guimarães
 Luccas Pino
-Jorge Dcarte
+Jorge Ricarte
